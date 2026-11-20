@@ -1,0 +1,3 @@
+/home/zhangyunzhe/桌面/wust_27_algorithm_assessment/27exam/TASK2/build/CMakeFiles/app.dir
+/home/zhangyunzhe/桌面/wust_27_algorithm_assessment/27exam/TASK2/build/CMakeFiles/edit_cache.dir
+/home/zhangyunzhe/桌面/wust_27_algorithm_assessment/27exam/TASK2/build/CMakeFiles/rebuild_cache.dir
